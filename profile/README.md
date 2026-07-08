@@ -17,11 +17,11 @@ What We Build
 
 CodeSpline is home to projects that blend technology, design, and user experience to create products people genuinely enjoy using.
 
-🏡 Hearth & Lens
+🏡 Hearth & Lens - <a href="https://github.com/CodeSpline/codespline-hearth-lens">Click here to be amazed</a>
 
 A modern digital magazine celebrating food, travel, culture, and photography through immersive storytelling. The focus is on beautiful visuals, thoughtful editorial design, and a reading experience that feels as refined as the stories themselves.
 
-🏟️ Sports Release Intelligence Portal
+🏟️ Sports Release Intelligence Portal - <a href="https://github.com/CodeSpline/codespline-release-intelligence-portal/tree/main">Click here to be amazed</a>
 
 An intelligence platform that aggregates, organizes, and presents sports announcements, transfers, press releases, and official updates in a structured, searchable, and insightful way for fans, analysts, and professionals.
 
