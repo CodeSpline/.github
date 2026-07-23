@@ -39,11 +39,11 @@ Our Principles
 
 All CodeSpline projects follow standardized patterns and best practices. Start here:
 
-- **[TECH-STACK-REFERENCE.md](./guidelines/TECH-STACK-REFERENCE.md)** — Why we chose each core technology
-- **[FSD-ARCHITECTURE-GUIDE.md](./guidelines/FSD-ARCHITECTURE-GUIDE.md)** — Frontend Feature-Sliced Design patterns
-- **[SECURITY-PATTERNS.md](./guidelines/SECURITY-PATTERNS.md)** — Authentication, RBAC, audit, secrets
-- **[OBSERVABILITY-STACK.md](./guidelines/OBSERVABILITY-STACK.md)** — Metrics, logging, tracing, alerting
-- **[BOOTSTRAP-TEMPLATE.md](./guidelines/BOOTSTRAP-TEMPLATE.md)** — Template for bootstrapping new projects
+- **[TECH-STACK-REFERENCE.md](../guidelines/TECH-STACK-REFERENCE.md)** — Why we chose each core technology
+- **[FSD-ARCHITECTURE-GUIDE.md](../guidelines/FSD-ARCHITECTURE-GUIDE.md)** — Frontend Feature-Sliced Design patterns
+- **[SECURITY-PATTERNS.md](../guidelines/SECURITY-PATTERNS.md)** — Authentication, RBAC, audit, secrets
+- **[OBSERVABILITY-STACK.md](../guidelines/OBSERVABILITY-STACK.md)** — Metrics, logging, tracing, alerting
+- **[BOOTSTRAP-TEMPLATE.md](../guidelines/BOOTSTRAP-TEMPLATE.md)** — Template for bootstrapping new projects
 
 These guides ensure consistency across all projects while allowing project-specific customizations.
 
