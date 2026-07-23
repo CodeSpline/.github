@@ -23,7 +23,7 @@ A modern digital magazine celebrating food, travel, culture, and photography thr
 
 🏟️ Sports Release Intelligence Portal - <a href="https://github.com/CodeSpline/codespline-release-intelligence-portal/tree/main">Click here to be amazed</a>
 
-An intelligence platform that aggregates, organizes, and presents sports announcements, transfers, press releases, and official updates in a structured, searchable, and insightful way for fans, analysts, and professionals.
+An intelligence platform that aggregates, organizes, and presents announcements, transfers, press releases, and official updates in a structured, searchable, and insightful way for organisation.
 
 Our Principles
 
