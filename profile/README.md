@@ -50,17 +50,3 @@ These guides ensure consistency across all projects while allowing project-speci
 ---
 
 At CodeSpline, every project is an opportunity to turn ideas into polished digital experiences—where thoughtful engineering meets purposeful design.
-
----
-
-## Shared Architecture & Development Guidelines
-
-All CodeSpline projects follow standardized patterns and best practices. Developers should reference these organizational guidelines:
-
-- **[TECH-STACK-REFERENCE.md](./guidelines/TECH-STACK-REFERENCE.md)** — Why we chose each core technology
-- **[FSD-ARCHITECTURE-GUIDE.md](./guidelines/FSD-ARCHITECTURE-GUIDE.md)** — Frontend Feature-Sliced Design patterns
-- **[SECURITY-PATTERNS.md](./guidelines/SECURITY-PATTERNS.md)** — Authentication, RBAC, audit, secrets
-- **[OBSERVABILITY-STACK.md](./guidelines/OBSERVABILITY-STACK.md)** — Metrics, logging, tracing, alerting
-- **[BOOTSTRAP-TEMPLATE.md](./guidelines/BOOTSTRAP-TEMPLATE.md)** — Template for bootstrapping new projects
-
-These guides ensure consistency across all projects while allowing project-specific customizations.
